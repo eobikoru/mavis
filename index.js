@@ -5,6 +5,7 @@ print("hello")
 }else if (condition){
 
 }else{
+console.log();
 
 }
 
